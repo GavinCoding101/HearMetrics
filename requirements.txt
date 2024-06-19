@@ -1,0 +1,6 @@
+streamlit
+numpy
+sounddevice
+matplotlib
+pandas
+requests
